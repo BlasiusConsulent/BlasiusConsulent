@@ -49,7 +49,7 @@ A professional hub built with React & Vite, hosted on Cloudflare Edge Network.
 ---
 
 <div align="center">
-  <a href="mailto:biagio.apostolico@proton.me">
+  <a href="mailto:itconsultingsupport@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-Secure_Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://consulentepc.it">
