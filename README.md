@@ -1,4 +1,4 @@
-### Hi there, I'm Biagio 👋
+### Hi there
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=IT%20Consulting%20&%20Cybersecurity&fontSize=50&fontAlign=50&fontAlignY=35&desc=Infrastructure%20%7C%20Development%20%7C%20Support&descAlign=50&descAlignY=60" width="100%" />
@@ -8,7 +8,7 @@
 
 **Senior IT Consultant | Cybersecurity Specialist | Full-Stack Integrator**
 
-Based in Salerno, Italy 🇮🇹. I specialize in building balanced, secure, and high-performance IT ecosystems. From hardware optimization to cloud infrastructure, I bridge the gap between physical systems and digital security.
+Based in Arezzo, Italy 🇮🇹. I specialize in building balanced, secure, and high-performance IT ecosystems. From hardware optimization to cloud infrastructure, I bridge the gap between physical systems and digital security.
 
 ---
 
@@ -50,7 +50,7 @@ A professional hub built with React & Vite, hosted on Cloudflare Edge Network.
 
 <div align="center">
   <a href="mailto:itconsultingsupport@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-Secure_Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/ProtonMail-itconsultingsupport-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://consulentepc.it">
     <img src="https://img.shields.io/badge/Visit_My_Website-00ff41?style=for-the-badge&logo=firefox&logoColor=black" alt="Website" />
