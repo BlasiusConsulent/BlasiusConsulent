@@ -6,7 +6,7 @@
 
 **Senior IT Consultant | Cybersecurity Specialist | Systems & AI Integrator**
 
-Based in Castel San Giorgio (SA), Italy 🇮🇹. With over 10 years of experience, I specialize in building balanced, secure, and high-performance IT ecosystems for SMBs. From hardware optimization and Disaster Recovery to local AI integration, I bridge the gap between physical systems and advanced digital security.
+Based in Salerno, Italy 🇮🇹. With over 10 years of experience, I specialize in building balanced, secure, and high-performance IT ecosystems for SMBs. From hardware optimization and Disaster Recovery to local AI integration, I bridge the gap between physical systems and advanced digital security.
 
 ---
 
