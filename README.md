@@ -6,7 +6,7 @@
 
 **Senior IT Consultant | Cybersecurity Specialist | Full-Stack Integrator**
 
-Based in Salerno, Italy 🇮🇹. I specialize in building balanced, secure, and high-performance IT ecosystems. From hardware optimization to cloud infrastructure, I bridge the gap between physical systems and digital security.
+Based in Italy 🇮🇹. I specialize in building balanced, secure, and high-performance IT ecosystems. From hardware optimization to cloud infrastructure, I bridge the gap between physical systems and digital security.
 
 ---
 
